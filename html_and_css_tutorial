@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title>HTML and CSS Tutorial</title>
+  </head>
+
+  <body>
+    <h1>HTML and CSS Tutorial</h1>
+    <p>At the end of Week 3 on Thursday, Jan. 28, you will take a quiz testing your html and css skills. To gain those skills, you will need to complete lessons 1 through 6 of the HTML & CSS Tutorial on Codecademy.com.</p>
+    <p><b><a href="https://www.codecademy.com/learn/web">START THE TUTORIAL</a></b></p>
+  </body>
+
+</html>
