@@ -5,7 +5,7 @@
 <ul><li>Office: AJ 389</li>
 <li>Phone: 513-687-5364</li>
 <li>Email: megan.mcnames@gmail.com</li>
-<li>Office hours: Thursday 1 to 5 p.m. Appointments outside these times can be scheduled at http://doodle.com/mcnames</li>
+<li>Office hours: Thursday 2 to 5 p.m. Appointments outside these times can be scheduled at http://doodle.com/mcnames</li>
 </ul>
 
 ## DESCRIPTION
