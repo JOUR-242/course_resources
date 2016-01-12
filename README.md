@@ -127,12 +127,20 @@ Always backup your work. Use Dropbox or your free BallState.Box.Com account.
 
 
 ## GRADE SCALE
-A 	96-100% 		C 	72-75% 		
-A- 	92-95% 		C- 	68-71%		
-B+ 	88-91% 		D+ 	64-67%
-B 	84-87% 		D 	60-63% 
-B- 	80-83%    		D- 	56-59%
-C+ 	76-79%			F 	55%  
+Letter Grade| Percentage
+------------|---------------
+A           |	96-100% 
+A- 	      	| 92-95% 
+B+ 	      	|	88-91%
+B 	      	| 84-87%	
+B- 	        | 80-83%
+C+ 	      	|	76-79% 
+C 	        | 72-75%
+ C- 	      | 68-71%
+ D+         | 64-67%
+ D          |	60-63%
+ D- 	      | 56-59%
+ F 	        | 55%
 Students must attain a C or repeat the course.
 
 ## PERCENTAGES / POINTS TOWARD FINAL GRADE
