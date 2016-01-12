@@ -2,10 +2,11 @@
 <b>https://github.com/JOUR-242</b>
 
 ### Instructor: Megan McNames
-Office: AJ 389
-Phone: 513-687-5364
-Email: megan.mcnames@gmail.com
-Office hours: Thursday 1 to 5 p.m. Appointments outside these times can be scheduled at http://doodle.com/mcnames
+<ul><li>Office: AJ 389</li>
+<li>Phone: 513-687-5364</li>
+<li>Email: megan.mcnames@gmail.com</li>
+<li>Office hours: Thursday 1 to 5 p.m. Appointments outside these times can be scheduled at http://doodle.com/mcnames</li>
+</ul>
 
 ## DESCRIPTION
 This course will introduce students to the role of programming and coding as it relates to multimedia storytelling and digital journalism. Students will explore how to mine and work with data sets, as well as explore programming languages most relevant to journalism, strategic marketing communications, and multimedia storytelling. Course projects will focus on the application of these programming languages through the lens of digital storytelling. Thus, students will learn to apply coding in the context of communications media.
@@ -41,7 +42,8 @@ Students also will:
   <li>Explore the concept of journalistic “visual reporting”</li>
   <li>Explore the history and current state of the news industry in the context of digital storytelling </li>
   <li>Learn to work in collaborative teams that involve interaction design and development</li>
-<ul>
+</ul>
+
 ## REQUIRED TEXTS
 ### Scraping for Journalists
 By Paul Bradshaw
