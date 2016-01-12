@@ -145,3 +145,14 @@ Students must attain a C or repeat the course.
 
 ## PERCENTAGES / POINTS TOWARD FINAL GRADE
 Grades for Programming for Journalists will be based on the following criteria. The following mix of assignments could change if current events or other circumstances dictate. You will be told of any changes in advance in class. Handouts outlining the requirements for each activity will be distributed when they are assigned.
+
+Projects           | Percent of Grade
+-------------------|---------------
+Quizzes + Tests    |	30% 
+Participation      |	15% 
+Assignments        |	40% 
+Final Project      |	15% 
+
+## Syllabus Disclaimer
+I reserve the right to make changes to this syllabus as necessary. You will be given both verbal and written notice of changes made t the syllabus housed here in GitHub.
+
