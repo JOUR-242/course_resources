@@ -106,14 +106,15 @@ It is your responsibility to be familiar with your rights and responsibilities a
 
 ### Behavior statement for P in R’s
 When you attend a P in R, please observe the following:
-Choose a P in R presentation that is of interest to you. Avoid attending one just because you have to.
-Turn off your cell phone and leave your laptop computer at home. Please give your full attention to the guest lecturer(s). Notes should be taken on paper, not a laptop. Tape recorders are welcome.
-Arrive at least five minutes before the start of the program. Arriving at start time might be too late, and you might be denied entrance.
-Attendance cards are not available once the program begins.
-You cannot enter the lecture hall after the program begins. Most P in R’s are Webcast and recorded so late arrivals cause problems with the coverage of these events. 
-Attendance cards are collected only after the conclusion of the program, which means after the question-and-answer period. Do not plan to leave once questions and answers start. The Q-and-A period is an important part of the presentation.
-Please be courteous to lecturer(s), which means no talking to your neighbor.
-Do research on P in R’s so you are prepared to ask a good question.
+<ul><li>Choose a P in R presentation that is of interest to you. Avoid attending one just because you have to.</li>
+<li>Turn off your cell phone and leave your laptop computer at home. Please give your full attention to the guest lecturer(s). Notes should be taken on paper, not a laptop. Tape recorders are welcome.</li>
+<li>Arrive at least five minutes before the start of the program. Arriving at start time might be too late, and you might be denied entrance.</li>
+<li>Attendance cards are not available once the program begins.</li>
+<li>You cannot enter the lecture hall after the program begins. Most P in R’s are Webcast and recorded so late arrivals cause problems with the coverage of these events. </li>
+<li>Attendance cards are collected only after the conclusion of the program, which means after the question-and-answer period. Do not plan to leave once questions and answers start. The Q-and-A period is an important part of the presentation.</li>
+<li>Please be courteous to lecturer(s), which means no talking to your neighbor.</li>
+<li>Do research on P in R’s so you are prepared to ask a good question.</li>
+</ul>
 Your professional conduct at P-in-Rs will be greatly appreciated. When you attend a 
 P-in-R, you are representing yourself, the Department of Journalism and Ball State University.  You are expected to attend one P-in-R for credit in the class. Failure to attend one P-in-R will result in a 5% reduction of your final grade.
 
