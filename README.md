@@ -53,6 +53,13 @@ eBook: https://leanpub.com/scrapingforjournalists
 By Nathan Yau
 eBook: http://www.amazon.com/Visualize-This-FlowingData-Visualization-ebook/dp/B005CCT19M
 
+## REQUIRED SOFTWARE
+### GitHub Account
+You will need a free GitHub account.
+
+### iWeb Account
+You will need a free iWeb account, available from Ball State. Set your iWeb account up onlin at http://iweb.bsu.edu.
+
 ## POLICIES
 
 ### Attendance
