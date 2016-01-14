@@ -11,6 +11,7 @@
 ## DESCRIPTION
 This course will introduce students to the role of programming and coding as it relates to multimedia storytelling and digital journalism. Students will explore how to mine and work with data sets, as well as explore programming languages most relevant to journalism, strategic marketing communications, and multimedia storytelling. Course projects will focus on the application of these programming languages through the lens of digital storytelling. Thus, students will learn to apply coding in the context of communications media.
 
+
 ## COURSE OBJECTIVES
   <ul>
     <li>Understand the role of programming and coding in the digital journalism age</li>
@@ -44,6 +45,7 @@ Students also will:
   <li>Learn to work in collaborative teams that involve interaction design and development</li>
 </ul>
 
+
 ## REQUIRED TEXTS
 ### Scraping for Journalists
 By Paul Bradshaw
@@ -53,12 +55,14 @@ eBook: https://leanpub.com/scrapingforjournalists
 By Nathan Yau
 eBook: http://www.amazon.com/Visualize-This-FlowingData-Visualization-ebook/dp/B005CCT19M
 
+
 ## REQUIRED SOFTWARE
 ### GitHub Account
 You will need a free GitHub account.
 
 ### iWeb Account
 You will need a free iWeb account, available from Ball State. Set your iWeb account up onlin at http://iweb.bsu.edu.
+
 
 ## POLICIES
 
