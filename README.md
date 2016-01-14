@@ -63,6 +63,12 @@ You will need a free GitHub account.
 ### iWeb Account
 You will need a free iWeb account, available from Ball State. Set your iWeb account up onlin at http://iweb.bsu.edu.
 
+### Cyberduck or other FTP client
+https://cyberduck.io/ Download on the left side of the page - for Mac and PC (Free)
+
+### Text Wrangler or other text editor
+https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12 for Mac
+
 
 ## POLICIES
 
