@@ -45,7 +45,7 @@ Students also will:
   <li>Learn to work in collaborative teams that involve interaction design and development</li>
 </ul>
 
-## ACEJMC Standards
+## ACEJMC Core Competencies and Standards
 This course aligns to the following ACEJMC Standards
  <ul><li> 6. Understand concepts and apply theories in the use and presentation of images and information</li>
  <li> 14. Apply tools and technologies appropriate for the communications professions in 
@@ -110,13 +110,17 @@ The Department of Journalism is committed to creating an awareness of diversity 
 The department and the university are committed to fostering and promoting a healthy learning community. All students will be treated with respect, tolerance, and equality regardless of race, religion, ethnicity, national origin, disability, sexual  orientation, gender, age, or economic status If, for any reason, you feel discriminated against based on these differences, you should contact your professor or the department chairperson. The Office of University Compliance or the Office of Student Rights and Community Standards may be contacted if you are not satisfied with the results of meeting with your professor or the chairperson.
 
 ### Journalism Writing Center
-The Journalism Writing Center (JWC), AJ 337 (285-7412), provides free one-on-one coaching for undergraduate and graduate students, including assistance with grammar and language usage, style, structure, editing and revising, clarity and creativity. Coaching is also available for students attempting the Language Usage Proficiency Exam (LUPE). The JWC Web site has a variety of online resources, including interactive quizzes. Visit the site at: http://jdwritingctr.iweb.bsu.edu
+The Journalism Writing Center (JWC), AJ 337 (285-7412), provides free one-on-one coaching for undergraduate and graduate students, including assistance with grammar and language usage, style, structure, editing and revising, clarity and creativity. Coaching is also available for students attempting the Language Usage Proficiency Exam (LUPE). The JWC Web site has a variety of online resources, including interactive quizzes. Visit the site at: http://jwcbsu.com.
 
 ### Portfolio Statement
 Students are encouraged to keep both digital files and copies of all of their classroom projects / assignments and published work for their professional portfolio. Your professional portfolio is a collection of your best work and will be used to help you land internships and to begin your career after college graduation. 
 
 ### Copyright and computer lab policy
 All software loaded in the computers labs is the property of the Department of Journalism. Do not remove or alter any program on these computers. It is illegal to copy any of this software.
+
+### Language Use Proficiency Exam: Current JOUR 101 Students
+JOUR 101 students must successfully complete the 100-question departmental Language Usage Proficiency Examination (LUPE) as a prerequisite for entry into subsequent courses (e.g., JOUR 104, NEWS 120, 121 or 122). The minimum passing score is 70 percent. Students have a maximum of five testing opportunities (limit of one per week), but a missed week of testing will result in a lost testing opportunity. Mandatory (group) testing of students in JOUR 101 will be administered the week after spring break. The LUPE is scheduled to be given between 3 and 6 p.m. on Tuesday, March 15 through Thursday, March 17. (BY RESERVATION ONLY) in the BL 008 testing lab in the basement of Bracken Library. Student ID cards will be checked at the door on the day of testing. For more information, visit the Journalism Writing Center (JWC) website (jwcbsu.com). Student registration for these testing sessions will be conducted in on-campus JOUR 101 classes by the JWC coaches the week before spring break. JOUR 101 online students, currently enrolled in the course for the spring 2016 semester, will be required to register via email (lupe@bsu.edu) or in person (AJ 337) no later than Wednesday, March 2 during regular JWC operating hours. Please note that Hailey Beard and Jessica Pettengill, this year's JWC coaches, will be providing each J101 online instructor with a video link to share with students confirming the details for LUPE registration and testing. Those students who fail their first LUPE-Blackboard attempt in the BL 008 testing lab will be responsible for taking subsequent LUPE tests via the Blackboard Testing Lab (RB 134) during the remaining four consecutive weeks of testing. Only ONE test per student per week will be permitted. Successful completion of this examination does not satisfy the University Core Curriculum Writing Competency Examination requirement. The LUPE is not the university’s Writing Proficiency Exam.
+
 
 ### Student Rights Links
 It is your responsibility to be familiar with your rights and responsibilities as a BSU student. Please visit the following sites for relevant information:
@@ -140,6 +144,7 @@ When you attend a P in R, please observe the following:
 </ul>
 Your professional conduct at P-in-Rs will be greatly appreciated. When you attend a 
 P-in-R, you are representing yourself, the Department of Journalism and Ball State University.  You are expected to attend one P-in-R for credit in the class. Failure to attend one P-in-R will result in a 5% reduction of your final grade.
+Attendance will be taken electronically so you must bring your BSU ID card.  Attendance will be recorded at the door prior to the event and during the first few minutes of the presentation. Event attendance lists are shared with Journalism instructors.  Late arrival or early departure can mean your deletion from the attendance list.
 
 ### Use of technology in the classroom
 If you need to use a recording device or laptop computer during class because of special needs, please make arrangements with the instructor. These devices can be disruptive to students around you and cannot be used during class without permission. It’s also electronics. Recording lectures without permission without the permission of the instructor is prohibited. It important for you to learn to take notes and participate in discussions. Should you not comply with this policy, you may be asked to leave class. Cell phones also should be disabled during class and stored away. 
