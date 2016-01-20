@@ -20,8 +20,8 @@ This course will introduce students to the role of programming and coding as it 
   </ul>
 Explore journalistic storytelling techniques that involve programming, including:
   <ul>
-    <liData visualization</li>
-    <liMapping data and GIS technologies</li>
+    <li>Data visualization</li>
+    <li>Mapping data and GIS technologies</li>
     <li>News Apps </li>
   </ul>
 Gain a foundational understanding of a number of programming languages relevant to digital journalism, including:
@@ -45,6 +45,12 @@ Students also will:
   <li>Learn to work in collaborative teams that involve interaction design and development</li>
 </ul>
 
+## ACEJMC Standards
+This course aligns to the following ACEJMC Standards
+ <ul><li> 6. Understand concepts and apply theories in the use and presentation of images and information</li>
+ <li> 14. Apply tools and technologies appropriate for the communications professions in 
+	which they work</li>
+	</ul>
 
 ## REQUIRED TEXTS
 ### Scraping for Journalists
@@ -153,11 +159,11 @@ B 	      	| 84-87%
 B- 	        | 80-83%
 C+ 	      	|	76-79% 
 C 	        | 72-75%
- C- 	      | 68-71%
- D+         | 64-67%
- D          |	60-63%
- D- 	      | 56-59%
- F 	        | 55%
+C- 	        | 68-71%
+D+          | 64-67%
+D           |	60-63%
+D- 	        | 56-59%
+F 	        | 55%
 Students must attain a C or repeat the course.
 
 ## PERCENTAGES / POINTS TOWARD FINAL GRADE
@@ -166,9 +172,9 @@ Grades for Programming for Journalists will be based on the following criteria. 
 Projects           | Percent of Grade
 -------------------|---------------
 Quizzes + Tests    |	30% 
-Participation      |	15% 
-Assignments        |	40% 
-Final Project      |	15% 
+Participation      |	10% 
+Assignments        |	25% 
+Final Project      |	35% 
 
 ## Syllabus Disclaimer
 I reserve the right to make changes to this syllabus as necessary. You will be given both verbal and written notice of changes made t the syllabus housed here in GitHub.
